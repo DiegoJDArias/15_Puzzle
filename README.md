@@ -1,8 +1,10 @@
 # 15_Puzzle - Game developed using the SFML library.
 
+![20251028_145712](https://github.com/user-attachments/assets/d6130d40-031b-4389-bec1-29d0df86aa9f)
+
 This is a classic sliding puzzle game developed using the SFML library. The game consists of a 4x4 board with 15 numbered tiles and one empty space. The goal is to arrange the tiles in ascending order by sliding them into the empty space.
 
-<img width="411" height="373" alt="1" src="https://github.com/user-attachments/assets/ba201bfe-b844-42c5-8871-bd07d9184fe2" />
+<img width="407" height="368" alt="2" src="https://github.com/user-attachments/assets/0c12e44c-0087-4684-89f8-8f797dad92bc" />
 
 # Key features and concepts:
 
@@ -14,6 +16,6 @@ This is a classic sliding puzzle game developed using the SFML library. The game
 
 • Educational aspects: The game demonstrates concepts of combinatorics, permutations, and problem-solving.
 
-<img width="407" height="368" alt="2" src="https://github.com/user-attachments/assets/0c12e44c-0087-4684-89f8-8f797dad92bc" />
+![20251028_145919](https://github.com/user-attachments/assets/3e001ae8-0d8b-4bbf-bbbb-2634c14c59e0)
 
 This project allowed me to practice game logic implementation, event handling, and graphical programming using SFML, while also reinforcing my understanding of algorithms and puzzle-solving strategies.
